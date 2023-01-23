@@ -29,27 +29,11 @@ function processMenu() {
       href: 'https://ping.pub',
       icon: 'ChromeIcon',
     })
-  } else {
-    chainMenus.push({
-      title: 'Testnet Explorer',
-      href: 'http://testnet.ping.pub',
-      icon: 'LifeBuoyIcon',
-    })
-  }
+  } 
   chainMenus.push({
     title: 'Twitter',
     href: 'https://twitter.com/targetnodes',
     icon: 'TwitterIcon',
-  })
-  chainMenus.push({
-    title: 'FAQ',
-    href: 'https://github.com/ping-pub/explorer/discussions',
-    icon: 'MessageSquareIcon',
-  })
-  chainMenus.push({
-    title: 'Github',
-    href: 'https://github.com/ping-pub/explorer',
-    icon: 'GithubIcon',
   })
 
   return chainMenus
