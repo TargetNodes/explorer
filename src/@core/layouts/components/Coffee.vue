@@ -1,7 +1,7 @@
 <template>
   <div>
     <b-card title="Thanks for donation">
-      Your donation is really important for us to build better open source product.
+      Your donation is really important for us to build better community products and support.
       <div class="mt-1">
         ERC20 Address:
       </div>

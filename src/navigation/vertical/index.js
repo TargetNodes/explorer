@@ -29,18 +29,20 @@ function processMenu() {
       href: 'https://ping.pub',
       icon: 'ChromeIcon',
     })
-  } else {
+  } 
+  /*else {
     chainMenus.push({
       title: 'Testnet Explorer',
       href: 'http://testnet.ping.pub',
       icon: 'LifeBuoyIcon',
     })
-  }
+  }*/
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/ping_pub',
+    href: 'https://twitter.com/targetnodes',
     icon: 'TwitterIcon',
   })
+  /*
   chainMenus.push({
     title: 'FAQ',
     href: 'https://github.com/ping-pub/explorer/discussions',
@@ -51,7 +53,7 @@ function processMenu() {
     href: 'https://github.com/ping-pub/explorer',
     icon: 'GithubIcon',
   })
-
+*/
   return chainMenus
 }
 
