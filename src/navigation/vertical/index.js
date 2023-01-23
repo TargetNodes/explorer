@@ -29,7 +29,7 @@ function processMenu() {
       href: 'https://ping.pub',
       icon: 'ChromeIcon',
     })
-  } 
+  }
   chainMenus.push({
     title: 'Twitter',
     href: 'https://twitter.com/targetnodes',
