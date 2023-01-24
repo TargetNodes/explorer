@@ -19,14 +19,14 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'favicon.ico',
+      icon: '/public/favicon.ico',
     })
   }
   chainMenus.push({ header: 'LINKS' })
   if (isTestnet()) {
     chainMenus.push({
       title: 'Mainnet Explorer',
-      href: 'https://ping.pub',
+      href: 'https://targetnodes.com',
       icon: 'ChromeIcon',
     })
   }
