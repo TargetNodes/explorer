@@ -6,7 +6,8 @@
         <vuexy-logo />
         <h1
           <!-- class="text-primary display-4 font-weight-bolder d-none d-md-block" TargetNodes Changes -->
-          class="$white display-4 font-weight-bolder d-none d-md-block"
+          class="display-4 font-weight-bolder d-none d-md-block"
+          style="color:white;"
         >
           TargetNodes Dashboard<small class="flow-left">Beta</small>
         </h1>
