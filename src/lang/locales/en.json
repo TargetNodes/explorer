@@ -41,7 +41,7 @@
 
   "dashboard": {
     "dashboard": "Dashboard",
-    "staking": "Staking",
+    "staking": "Validators / Staking",
     "governance": "Governance",
     "summary": "Summary",
     "blocks": "Blocks / Transactions",
