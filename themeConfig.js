@@ -1,14 +1,14 @@
 // Theme Colors
 // Initially this will be blank. Later on when app is initialized we will assign bootstrap colors to this from CSS variables.
 export const $themeColors = {
-  //colors: ['primary', 'secondary', 'success', 'info', 'warning', 'danger', 'light', 'dark']
-   colors: ['blue', 'cyan', 'green', 'pink', 'orange', 'red', 'light', 'grey']
+  // colors: ['primary', 'secondary', 'success', 'info', 'warning', 'danger', 'light', 'dark']
+  colors: ['blue', 'cyan', 'green', 'pink', 'orange', 'red', 'light', 'grey'],
 }
 
 // App Breakpoints
 // Initially this will be blank. Later on when app is initialized we will assign bootstrap breakpoints to this object from CSS variables.
 export const $themeBreakpoints = {
-   //breakpoints: ['xs', 'sm', 'md', 'lg', 'xl', 'xxl']
+  // breakpoints: ['xs', 'sm', 'md', 'lg', 'xl', 'xxl']
 }
 
 // APP CONFIG
