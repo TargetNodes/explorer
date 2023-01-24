@@ -1,5 +1,6 @@
 // Theme Colors
 // Initially this will be blank. Later on when app is initialized we will assign bootstrap colors to this from CSS variables.
+// The below colors are defined in _variables.scss file.
 export const $themeColors = {
   // colors: ['primary', 'secondary', 'success', 'info', 'warning', 'danger', 'light', 'dark']
   colors: ['blue', 'cyan', 'green', 'pink', 'orange', 'red', 'light', 'grey'],
