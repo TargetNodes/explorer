@@ -19,7 +19,7 @@ function processMenu() {
       title: 'blockchains',
       children: blockchains,
       tag: `${blockchains.length}`,
-      icon: 'logo.svg',
+      icon: 'smalllogo.png',
     })
   }
   chainMenus.push({ header: 'LINKS' })
