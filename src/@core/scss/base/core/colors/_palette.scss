@@ -146,7 +146,7 @@
           // Badge Light Background
           &.badge-light-#{$color_name} {
             background-color: rgba($color: $color_value, $alpha: 0.12);
-            color: $black !important;
+            color: $color_value !important;
           }
         }
       }
