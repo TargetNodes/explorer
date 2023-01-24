@@ -45,12 +45,12 @@
                 class="d-block d-xl-none"
                 @click="toggleVerticalMenuActive"
               />
-              <feather-icon
+              <!-- <feather-icon
                 :icon="collapseTogglerIconFeather"
                 size="20"
                 class="d-none d-xl-block collapse-toggle-icon"
                 @click="toggleCollapsed"
-              />
+              />-->
             </b-link>
           </li>
         </ul>
