@@ -166,7 +166,7 @@
           &:focus,
           &:active,
           &.active {
-            color: $white;
+            color: $black;
             background-color: color-function($color_name, 'darken-1') !important;
           }
 
