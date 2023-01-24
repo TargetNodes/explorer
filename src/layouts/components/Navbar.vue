@@ -97,8 +97,8 @@
 
         <template #button-content>
           <b-button
-            <!-- v-ripple.400="'rgba(255, 255, 255, 0.15)'" -->
-            v-ripple.400="'rgba(21,29,50,255)'"
+            <!-- v-ripple.400="'rgba(255, 255, 255, 0.15)'" TargetNodes Changes -->
+            v-ripple.400="'rgba(21, 29, 50, 255)'"
             variant="primary"
             class="btn-icon"
           >

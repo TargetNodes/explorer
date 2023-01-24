@@ -5,7 +5,8 @@
       <div class="d-flex justify-content-center align-items-center">
         <vuexy-logo />
         <h1
-          class="display-4 font-weight-bolder d-none d-md-block"
+          <!-- class="text-primary display-4 font-weight-bolder d-none d-md-block" TargetNodes Changes -->
+          class="$white display-4 font-weight-bolder d-none d-md-block"
         >
           TargetNodes Dashboard<small class="flow-left">Beta</small>
         </h1>
