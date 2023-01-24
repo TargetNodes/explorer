@@ -8,7 +8,7 @@
           class="display-4 font-weight-bolder d-none d-md-block"
           style="color:white;"
         >
-          TargetNodes<small class="flow-left">Beta</small>
+          TargetNodes<small class="flow-left"></small>
         </h1>
       </div>
     </b-link>
