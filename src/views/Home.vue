@@ -10,9 +10,9 @@
         >
           TargetNodes<small class="flow-left"></small>
         </h1>
-        <p class="mb-1">
+        <b><p class="mb-1">
           You Keys. Your Crypto. Your Rewards.
-        </p>
+        </p></b>
       </div>
     </b-link>
 

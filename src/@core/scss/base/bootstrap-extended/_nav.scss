@@ -99,12 +99,12 @@
   &.dropdown {
     &.show {
       .nav-link {
-        color: $black;
+        color: $white;
       }
       .dropdown-item {
         &.active {
           &:hover {
-            color: $primary;
+            color: $black;
           }
         }
       }
