@@ -12,11 +12,12 @@
         </h1>
       </div>
     </b-link>
+    
     <p class="mb-1">
-          You Keys. Your Crypto. Your Rewards.
+          
     </p>
-    <h2 class="mb-3">
-      Cosmos Ecosystem Blockchains 🚀
+    <h2 class="mb-1">
+      Cosmos Ecosystem Blockchain Validators By TargetNodes🚀
     </h2>
 
     <div>
