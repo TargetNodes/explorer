@@ -151,7 +151,7 @@
                     id="account_name"
                     v-model="name"
                     :state="errors.length > 0 ? false:null"
-                    placeholder="Ping Nano X"
+                    placeholder="Give Any Name"
                     :readonly="edit"
                   />
                   <small class="text-danger">{{ errors[0] }}</small>
