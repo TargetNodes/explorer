@@ -13,9 +13,10 @@
       </div>
     </b-link>
     <p class="mb-1"></p>
-    <h4 class="mb-1">
+    <br>
+    <h5 class="mb-1">
       Cosmos Ecosystem Blockchain Validators By TargetNodes🚀
-    </h4>
+    </h5>
 
     <div>
       <b-row class="match-height">
