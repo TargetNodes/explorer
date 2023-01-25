@@ -34,13 +34,12 @@ function processMenu() {
     title: 'Twitter',
     href: 'https://twitter.com/targetnodes',
     icon: 'TwitterIcon',
-  },
-  {
-    title: 'targetnodes.com',
+  })
+  chainMenus.push({
+    title: 'Website',
     href: 'https://targetnodes.com',
     icon: 'favicon.ico',
-  }
-  )
+  })
 
   return chainMenus
 }
