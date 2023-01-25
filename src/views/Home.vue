@@ -10,12 +10,12 @@
         >
           TargetNodes<small class="flow-left"></small>
         </h1>
+        <p class="mb-1">
+          You Keys. Your Crypto. Your Rewards.
+        </p>
       </div>
     </b-link>
 
-    <p class="mb-1">
-      TargetNodes Dashboard is not just an explorer but also a wallet and more ... 🛠
-    </p>
     <h2 class="mb-3">
       Cosmos Ecosystem Blockchains 🚀
     </h2>
