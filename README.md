@@ -40,7 +40,7 @@ Your donation will help us make better products. Thanks in advance.
 0xC1120958Ddc44cF4feFAd6D69D6Ab427AF29A9C8
 ```
 
- - You can donate any token in the Cosmos ecosystem: [here](https://ping.pub/coffee)
+ - You can donate any token in the Cosmos ecosystem: [here](https://www.targetnodes.com/explorer)
 
 > If you are an individual please do not donate more than $10, a cup of coffee means a lot to us.
 
@@ -52,7 +52,7 @@ Your donation will help us make better products. Thanks in advance.
 
 ## Stake With Us
 
-You can hire us by submiting an issue and fund the issue on [TargetNodes Explorer](https://targetnodes.com/explorer)
+You can hire us by submiting an issue and fund the issue on [TargetNodes Explorer](https://www.targetnodes.com/explorer)
 
 
 ## Contributors

@@ -13,7 +13,7 @@
       v-ripple.400="'rgba(113, 102, 240, 0.15)'"
       class="float-md-right"
       to="/coffee"
-    >Buy me a cup of coffee.
+    >Buy a cup of coffee.
       <span
         v-ripple.400="'rgba(113, 102, 240, 0.15)'"
         variant="outline-primary"
