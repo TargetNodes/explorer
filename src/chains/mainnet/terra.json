@@ -1,5 +1,5 @@
 {
-    "chain_name": "terra classic",
+    "chain_name": "terra-luna",
     "coingecko": "terra-luna",
     "api": "https://fcd.terra.dev",
     "rpc": ["https://terra-rpc.easy2stake.com:443", "http://public-node.terra.dev:26657"],
