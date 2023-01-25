@@ -17,7 +17,7 @@
     <h6 class="mb-1">
       Cosmos Ecosystem Blockchain Validators Operated By TargetNodes🚀
     </h6>
-
+    <br>
     <div>
       <b-row class="match-height">
         <b-col
