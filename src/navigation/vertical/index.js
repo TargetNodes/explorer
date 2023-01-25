@@ -23,13 +23,6 @@ function processMenu() {
     })
   }
   chainMenus.push({ header: 'LINKS' })
-  if (isTestnet()) {
-    chainMenus.push({
-      title: 'Mainnet Explorer',
-      href: 'https://targetnodes.com',
-      icon: 'ChromeIcon',
-    })
-  }
   chainMenus.push({
     title: 'Twitter',
     href: 'https://twitter.com/targetnodes',
@@ -37,8 +30,8 @@ function processMenu() {
   })
   chainMenus.push({
     title: 'Website',
-    href: 'https://targetnodes.com',
-    icon: 'favicon.ico',
+    href: 'https://www.targetnodes.com/',
+    icon: 'ChromeIcon',
   })
 
   return chainMenus

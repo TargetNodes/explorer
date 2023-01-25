@@ -10,12 +10,11 @@
         >
           TargetNodes<small class="flow-left"></small>
         </h1>
-        <b><p class="mb-1">
-          You Keys. Your Crypto. Your Rewards.
-        </p></b>
       </div>
     </b-link>
-
+    <p class="mb-1">
+          You Keys. Your Crypto. Your Rewards.
+    </p>
     <h2 class="mb-3">
       Cosmos Ecosystem Blockchains 🚀
     </h2>
