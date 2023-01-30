@@ -15,7 +15,7 @@
 
 </div>
 
-`TargetNodes Dashboard` is a light explorer for Cosmos-based Blockchains.  https://targetnodes.com .
+`TargetNodes Dashboard ` is a light explorer for Cosmos-based Blockchains.  https://targetnodes.com .
 
 ## What is the difference between TargetNodes explorer and other explorers? 
 
